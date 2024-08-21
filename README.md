@@ -20,7 +20,7 @@ This is a WhatsApp bot built using Node.js, Twilio, and Excel to collect water u
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/whatsapp-water-usage-bot.git
+git clone https://github.com/faisalpinitod/whatsapp-water-usage-bot.git
 cd whatsapp-water-usage-bot
 ```
 
