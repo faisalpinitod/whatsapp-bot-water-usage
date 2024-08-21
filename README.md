@@ -76,8 +76,8 @@ npm start
 - For local development, use Ngrok to expose the server. For deployment on a cloud platform, configure your     environment variables and webhook settings according to the deployment environment.
    - Example Commands
 
-    "Please send today's Water Usage Data." — Bot's reminder message
-    "100 liters" — Example user response
+  -  "Please send today's Water Usage Data." — Bot's reminder message
+  -  "100 liters" — Example user response
 
 ## Contributing
 
